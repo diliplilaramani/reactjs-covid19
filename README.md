@@ -24,3 +24,7 @@
 
 13. import styles to App.js file
 
+14. create api folder and index.js file. Add basic axios get functionality and export it.
+
+15. 
+
